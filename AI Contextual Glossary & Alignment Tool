@@ -1,45 +1,8 @@
 📖 Access the Glossary
-# 📚 AI Contextual Glossary & Alignment Tool
+
+# 📚 AI Contextual Glossary & Alignment Tool 
 
 This resource ensures a consistent, shared vocabulary across our projects, from Game Dev to Azure Upgrades.
-
----
-
-## 🧠 Core Terminology (SME: [Name or Department for this Section])
-
-### 1. Contextual Alignment
-
-**Definition:**
-The practice of ensuring that a technical term (like 'model drift' or 'feature engineering') has the exact same agreed-upon meaning when discussed by different cross-functional teams (e.g., Marketing vs. Engineering). This is our "tie-breaker."
-
-**Fusing in Learning Notes:**
-* **Context/Example:** In Game Development, 'alignment' might refer to coordinate systems, but here, it strictly refers to **semantic agreement**.
-* **SME Note:** This concept is crucial for project handover and avoiding costly miscommunication during requirement gathering.
-
----
-
-### 2. Large Language Model (LLM)
-
-**Definition:**
-A deep learning model trained on massive datasets of text and code, capable of generating human-like text, translating languages, and performing creative tasks.
-
-**Fusing in Learning Notes:**
-* **Context/Example:** A model that processes text sequences longer than 512 tokens is often considered "Large" in modern ML contexts.
-* **SME Note:** The term LLM specifically refers to the architecture (e.g., Transformer), not just the size. Small, specialized models still exist!
-
----
-
-## 🛠️ Operational Terminology (SME: [Name or Department for this Section])
-
-### 3. Model Drift
-
-**Definition:**
-The degradation of a model's predictive performance over time, often caused by changes in the real-world data distribution (data drift) or changes in the relationship between the input and output variables (concept drift).
-
-**Fusing in Learning Notes:**
-* **Context/Example (Azure/VM Upgrade):** A post-upgrade environment check should always include a drift detection job to ensure the new hardware didn't subtly change inference latency or results.
-* **SME Note:** This is often a silent killer in long-running production systems. Detection protocols must be automated.
-
----
+Core Terminology (SME: [Name or Department for this Section])------> expanded definition
 
 [... Add more terms here ...]
