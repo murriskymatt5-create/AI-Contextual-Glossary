@@ -1,5 +1,3 @@
-# AI-Contextual-Glossary
-A community-driven glossary for aligning AI terminology across diverse projects, from games to Azure infrastructure.
 📚 AI Contextual Glossary & Alignment Tool
 
 Welcome to the AI Contextual Glossary & Alignment Tool! This repository's mission is to solve one of the most common challenges in cross-functional tech projects: language alignment.
